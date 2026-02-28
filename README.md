@@ -23,7 +23,7 @@ The server will run at:
 http://127.0.0.1:8000  
 
 API documentation (Swagger UI):
-http://127.0.0.1:8000/docs  
+https://dag-workflow-builder-backend-2.onrender.com/docs 
 
 ## Deployment (Render)
 
