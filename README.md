@@ -10,7 +10,7 @@ Python 3.x, FastAPI, Uvicorn, Pydantic
 ## Local Setup
 
 Clone the repository:
-git clone https://github.com/your-username/dag-workflow-builder_backend.git  
+git clone https://github.com/poornimajoshi90/dag-workflow-builder_backend
 cd dag-workflow-builder_backend  
 
 Install dependencies:
